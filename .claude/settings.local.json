@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\ttdun\\\\OneDrive\\\\Desktop\\\\AITraining\\\\AI_Agent_Demo\")",
+      "Bash(pip --version)",
+      "Bash(pip3 --version)",
+      "Bash(where python:*)",
+      "Bash(where python3:*)",
+      "Bash(where py:*)",
+      "Bash(C:/Python314/python.exe --version)",
+      "Bash(C:/Python314/python.exe -m pip --version)",
+      "Bash(npm --version)",
+      "Read(//c/Users/ttdun/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/ac1b2d1b-c06a-4693-89dd-ab24dfa433dc/a229cb3d-c52c-4907-b4b4-88d14b5bea54/skills/docx/**)",
+      "Bash(npm install:*)",
+      "Bash(node -e \"require\\('docx'\\); console.log\\('docx ready'\\)\")",
+      "Bash(mkdir -p \"C:/Users/ttdun/OneDrive/Desktop/AITraining/notes\")",
+      "Read(//c/Users/ttdun/OneDrive/Desktop/AITraining/**)",
+      "Bash(npm init:*)",
+      "Bash(node create_notes.js)",
+      "Bash(venv/Scripts/python.exe -m rag.indexer)",
+      "Bash(venv/Scripts/python.exe main.py)",
+      "Bash(venv/Scripts/python.exe index_data.py)",
+      "Bash(venv/Scripts/python.exe test_agent.py)",
+      "Bash(chcp 65001)",
+      "Bash(venv/Scripts/python.exe -c \" import sys, os sys.stdout.reconfigure\\(encoding='utf-8'\\) sys.path.insert\\(0, 'src'\\) from agents.sales_quote.graph import build_sales_quote_graph test_input = '''Hi team, just got off a call with FinPay fintech startup. Need 2 mid Java backend devs, 1 React frontend, 1 part-time DevOps. Budget max 20k/month, starts June 1, 6 months. New client.''' app = build_sales_quote_graph\\(\\) config = {'configurable': {'thread_id': 'test_002'}} initial_state = {'raw_input': test_input,'requirements': {},'available_resources': {},'capacity_context': '','package_config': {},'pricing_result': {},'policy_valid': False,'retry_count': 0,'retry_feedback': '','final_output': ''} result = app.invoke\\(initial_state, config=config\\) print\\(result['final_output']\\) \")",
+      "Bash(venv/Scripts/python.exe export_graph.py)",
+      "Bash(venv/Scripts/pip install:*)",
+      "Bash(venv/Scripts/python.exe -c ':*)",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_evaluate",
+      "Bash(venv/Scripts/python.exe -c ' *)",
+      "mcp__plugin_playwright_playwright__browser_take_screenshot",
+      "Bash(venv/Scripts/python.exe -m pip show langchain-openai langchain-classic)",
+      "Bash(venv/Scripts/python.exe -m pip show openai tiktoken pypdf)",
+      "Bash(venv/Scripts/python.exe -m pip uninstall -y langchain-openai openai tiktoken pypdf)",
+      "Bash(venv/Scripts/python.exe -m pip freeze)"
+    ]
+  },
+  "enabledPlugins": {
+    "playwright@claude-plugins-official": true
+  }
+}

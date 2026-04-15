@@ -1,0 +1,211 @@
+DELIVERY TEAM ROSTER
+Last updated: 2026-04-15
+Company: Rikkei Software
+
+================================================================
+
+EMPLOYEE: EMP001
+Name: Nguyen Van Hung
+Role: Backend Developer
+Seniority: Senior (6 years)
+Skills: Node.js, TypeScript, NestJS, PostgreSQL, AWS, Redis, Microservices
+Current Status: Available
+Available From: 2026-04-13 (immediately)
+Notes: Team lead experience. Led 3 projects with 5+ person teams. Strong in system design.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP002
+Name: Tran Thi Lan
+Role: Backend Developer
+Seniority: Mid (3 years)
+Skills: Java, Spring Boot, MySQL, Docker, REST API, Kafka
+Current Status: Available
+Available From: 2026-04-13 (immediately)
+Notes: Solid Java background. Experience with fintech and banking integrations.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP003
+Name: Le Minh Duc
+Role: Backend Developer
+Seniority: Junior (1.5 years)
+Skills: Node.js, Express, MongoDB, basic AWS
+Current Status: Assigned to Project Alpha
+Available From: 2026-06-01
+Notes: Good learner. Currently finishing a 2-month extension on Project Alpha.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP004
+Name: Pham Quoc Bao
+Role: Backend Developer
+Seniority: Senior (7 years)
+Skills: Python, Django, FastAPI, PostgreSQL, GCP, Kubernetes, Machine Learning integration
+Current Status: Assigned to Project Phoenix
+Available From: 2026-07-15
+Notes: Specialist in Python and data-intensive backends. Also comfortable with ML pipelines.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP005
+Name: Vo Thanh Liem
+Role: Backend Developer
+Seniority: Mid (4 years)
+Skills: Node.js, TypeScript, GraphQL, MongoDB, Docker, Redis
+Current Status: Available
+Available From: 2026-04-13 (immediately)
+Notes: Strong in GraphQL APIs. Has e-commerce and marketplace experience.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP006
+Name: Nguyen Thi Hoa
+Role: Frontend Developer
+Seniority: Senior (5 years)
+Skills: React, TypeScript, Next.js, Tailwind CSS, Redux, REST API integration
+Current Status: Available
+Available From: 2026-04-13 (immediately)
+Notes: Strong UI/UX sensibility. Experience with large-scale SPA applications.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP007
+Name: Hoang Van Khanh
+Role: Frontend Developer
+Seniority: Mid (2.5 years)
+Skills: React, JavaScript, Vue.js, CSS, Webpack
+Current Status: Assigned to Project Beta
+Available From: 2026-05-01
+Notes: Comfortable with both React and Vue. Will be free in about 2-3 weeks.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP008
+Name: Do Phuong Linh
+Role: Frontend Developer
+Seniority: Junior (1 year)
+Skills: React, HTML, CSS, JavaScript, basic TypeScript
+Current Status: Available
+Available From: 2026-04-13 (immediately)
+Notes: Fresh graduate with strong React fundamentals. Needs mentoring for complex features.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP009
+Name: Bui Trong Nghia
+Role: Mobile Developer
+Seniority: Senior (5 years)
+Skills: React Native, iOS (Swift), Android (Kotlin), Firebase, App Store deployment
+Current Status: Available
+Available From: 2026-04-13 (immediately)
+Notes: Cross-platform specialist. Has shipped 8 apps to App Store and Google Play.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP010
+Name: Dinh Thi Mai
+Role: Mobile Developer
+Seniority: Mid (3 years)
+Skills: React Native, JavaScript, Firebase, basic iOS
+Current Status: Assigned to Project Omega
+Available From: 2026-06-15
+Notes: React Native focused. Limited native iOS/Android but strong in RN ecosystem.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP011
+Name: Ly Van Thanh
+Role: QA Engineer
+Seniority: Senior (4 years)
+Skills: Manual testing, Selenium, Cypress, API testing (Postman), performance testing (JMeter), test planning
+Current Status: Available
+Available From: 2026-04-13 (immediately)
+Notes: Has experience writing full test plans for healthcare and fintech projects. Strong in regression testing.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP012
+Name: Nguyen Ngoc Tram
+Role: QA Engineer
+Seniority: Junior (1.5 years)
+Skills: Manual testing, basic Selenium, Postman, bug reporting
+Current Status: Assigned to Project Alpha
+Available From: 2026-06-01
+Notes: Diligent tester. Best paired with a senior QA for complex projects.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP013
+Name: Tran Duc Kien
+Role: DevOps Engineer
+Seniority: Senior (6 years)
+Skills: AWS (EC2, RDS, S3, Lambda, EKS), Terraform, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), monitoring (Datadog, CloudWatch)
+Current Status: Available
+Available From: 2026-04-13 (immediately)
+Notes: Can architect cloud infrastructure from scratch. Has done full AWS migrations.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP014
+Name: Phan Thi Thu
+Role: DevOps Engineer
+Seniority: Mid (3 years)
+Skills: GCP, Docker, Kubernetes, basic Terraform, GitHub Actions, Linux
+Current Status: Available
+Available From: 2026-04-13 (immediately)
+Notes: GCP specialist. Good for projects already on Google Cloud.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP015
+Name: Cao Minh Quan
+Role: Business Analyst
+Seniority: Senior (5 years)
+Skills: Requirements gathering, user story writing, process mapping, Jira, Confluence, stakeholder management, Vietnamese and English fluency
+Current Status: Assigned to Project Phoenix
+Available From: 2026-05-15
+Notes: Experienced with both Vietnamese and international clients. Strong in fintech and enterprise software requirements.
+
+---
+
+================================================================
+
+EMPLOYEE: EMP016
+Name: Tran Tien Dung
+Role: RPA Developer
+Seniority: Senior (5 years)
+Skills: Requirement gathering, Workflow analyzing, Power Automate, Uipath, Automation Anywhere
+Current Status: Available
+Available From: 2026-04-14 (immediately)
+Notes: Experienced with both Vietnamese and international clients. Strong in fintech and enterprise software requirements.
+
+---

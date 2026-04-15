@@ -1,0 +1,20 @@
+# Secrets — never commit these
+.env
+
+# Virtual environment — too large to commit, recreate with requirements.txt
+venv/
+
+# Auto-generated vector database
+storage/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

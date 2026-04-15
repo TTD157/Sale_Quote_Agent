@@ -1,0 +1,202 @@
+PRICING POLICY & RATE CARD
+Company: Rikkei Software
+Version: 2026-Q2
+Effective Date: 2026-01-01
+
+================================================================
+SECTION 1: STANDARD RATE CARD (Monthly, USD)
+================================================================
+
+These are the standard monthly billing rates per role and seniority level.
+All rates are in USD per person per month, assuming full-time allocation.
+
+BACKEND DEVELOPER
+  Junior  (0-2 years):   $2,500/month
+  Mid     (2-4 years):   $3,800/month
+  Senior  (4+ years):    $5,500/month
+
+FRONTEND DEVELOPER
+  Junior  (0-2 years):   $2,200/month
+  Mid     (2-4 years):   $3,500/month
+  Senior  (4+ years):    $5,000/month
+
+MOBILE DEVELOPER (iOS / Android / React Native)
+  Junior  (0-2 years):   $2,500/month
+  Mid     (2-4 years):   $4,000/month
+  Senior  (4+ years):    $5,800/month
+
+QA ENGINEER
+  Junior  (0-2 years):   $1,800/month
+  Mid     (2-4 years):   $2,800/month
+  Senior  (4+ years):    $4,000/month
+
+DEVOPS ENGINEER
+  Junior  (0-2 years):   $2,800/month
+  Mid     (2-4 years):   $4,200/month
+  Senior  (4+ years):    $6,000/month
+
+BUSINESS ANALYST
+  Junior  (0-2 years):   $2,000/month
+  Mid     (2-4 years):   $3,200/month
+  Senior  (4+ years):    $4,500/month
+
+================================================================
+SECTION 2: INTERNAL COST ESTIMATES (Monthly, USD)
+================================================================
+
+Internal cost = what the company pays the employee (salary + overhead).
+Gross margin = (billing price - internal cost) / billing price × 100
+
+Cost rate by seniority level:
+  Junior:  55% of standard billing rate
+  Mid:     58% of standard billing rate
+  Senior:  60% of standard billing rate
+
+Example:
+  Senior Backend Developer billed at $5,500/month
+  Internal cost = $5,500 × 60% = $3,300/month
+  Gross margin  = ($5,500 - $3,300) / $5,500 × 100 = 40%
+
+================================================================
+SECTION 3: DISCOUNT RULES
+================================================================
+
+3.1 Duration Discount
+Applied based on total engagement length committed by the client.
+
+  Under 3 months:     0% discount (not eligible — see Section 6)
+  3 to 5 months:      5% discount
+  6 to 11 months:    10% discount
+  12 months or more: 15% discount
+
+3.2 Team Size Discount
+Applied based on number of people in the engagement.
+
+  1-2 people:   0% discount
+  3-5 people:   3% discount
+  6-9 people:   5% discount
+  10+ people:   8% discount
+
+3.3 Discount Stacking Rules
+Both discounts are applied MULTIPLICATIVELY, not additively.
+Formula: final_price = base_price × (1 - duration_discount) × (1 - team_size_discount)
+
+IMPORTANT: Combined effective discount is CAPPED at 25% maximum.
+If calculated combined discount exceeds 25%, apply exactly 25%.
+
+Example:
+  Duration discount = 10%, Team size discount = 5%
+  Combined = 1 - (1 - 0.10) × (1 - 0.05) = 1 - 0.855 = 14.5%  ← within cap
+
+  Duration discount = 15%, Team size discount = 8%
+  Combined = 1 - (1 - 0.15) × (1 - 0.08) = 1 - 0.782 = 21.8%  ← within cap
+
+================================================================
+SECTION 4: SPECIAL PRICING RULES
+================================================================
+
+4.1 Part-Time Allocation
+If the client requests a resource at less than full-time (e.g., 3 days/week):
+  - Part-time rate = 60% of standard monthly rate
+  - Applies only to DevOps, QA, and BA roles typically
+  - Must be agreed upfront in the contract
+
+4.2 Ramp-Up Discount
+For the first 2 weeks when a substitute or close-match resource needs to learn the domain:
+  - Ramp-up rate = 50% of standard rate for that 2-week period
+  - Only applicable when the match type is "substitute" or "close"
+  - Helps offset risk for the client during onboarding
+
+4.3 Urgency Premium
+If the client requires the team to start within 5 business days:
+  - Urgency premium = +5% added to the final price AFTER all discounts
+  - This covers priority scheduling and potential overtime during handover
+
+================================================================
+SECTION 5: POLICY CONSTRAINTS & VALIDATION
+================================================================
+
+5.1 Minimum Gross Margin
+All engagements must meet the minimum margin policy BEFORE approval:
+
+  Standard account:   minimum 30% gross margin
+  Strategic account:  minimum 20% gross margin
+    (Strategic = existing client with >$200k historical revenue OR key reference client)
+
+If proposed pricing produces margin below the minimum, the quote MUST be revised.
+Acceptable adjustments: increase billing price, reduce team size, skip tentative roles.
+
+5.2 Minimum Engagement Duration
+  Standard minimum: 3 months
+  Exception allowed for: 3 or more people engagements (may go down to 2 months)
+  No exceptions for single-person or 2-person engagements below 3 months.
+
+5.3 Seniority Substitution Rules
+If the exact seniority is unavailable, one level downward substitution is allowed:
+  - Senior requested → Mid provided: allowed (adjust rate to Mid rate, flag to client)
+  - Mid requested → Junior provided: allowed only with written client approval
+  - More than 1 level down (Senior → Junior): NOT allowed without Head of Sales sign-off
+
+5.4 Team Composition Recommendations
+These are not hard rules but should be flagged to the sales team:
+  - 3 or more developers: QA Engineer is strongly recommended
+  - 5 or more developers: Business Analyst is strongly recommended
+  - All-junior team: Senior lead is required (at least 1 senior or mid)
+
+================================================================
+SECTION 6: APPROVAL MATRIX
+================================================================
+
+Quote approval requirements based on discount level and margin:
+
+No approval needed:
+  - Combined discount ≤ 10% AND margin ≥ 35%
+
+Sales Manager approval:
+  - Combined discount 11-20% OR margin 28-34%
+  - Any part-time allocation
+
+Head of Sales approval:
+  - Combined discount 21-25% OR margin 20-27%
+  - Strategic account pricing (20% minimum margin applied)
+  - Any seniority downgrade more than 1 level
+
+CEO approval:
+  - Any discount above 25% cap (should not happen — escalate as exception)
+  - Margin below 20% (even for strategic accounts)
+  - Engagement below minimum duration without team-size exception
+
+================================================================
+SECTION 7: WORKED EXAMPLE
+================================================================
+
+Client: FinTech Startup ABC
+Team requested: 1 Senior Backend Dev, 1 Mid Frontend Dev, 1 QA Engineer (part-time)
+Duration: 6 months
+
+Step 1 — Base rates:
+  Senior Backend Dev:  $5,500 × 6 months = $33,000
+  Mid Frontend Dev:    $3,500 × 6 months = $21,000
+  QA Engineer (PT):    $2,800 × 60% × 6 months = $10,080
+  Total before discounts: $64,080
+
+Step 2 — Duration discount (6 months → 10%):
+  $64,080 × 0.90 = $57,672
+
+Step 3 — Team size discount (3 people → 3%):
+  $57,672 × 0.97 = $55,942
+
+Step 4 — Check cap: combined = 1 - (0.90 × 0.97) = 12.7% ← under 25% cap
+
+Step 5 — Internal cost:
+  Senior Backend: $3,300 × 6 = $19,800
+  Mid Frontend: $2,030 × 6 = $12,180   (58% of $3,500)
+  QA (PT): $1,540 × 60% × 6 = $5,544   (55% of $2,800 × 60%)
+  Total internal cost: $37,524
+
+Step 6 — Gross margin:
+  ($55,942 - $37,524) / $55,942 = 32.9% ← passes 30% minimum
+
+Step 7 — Approval: 12.7% discount, 32.9% margin → Sales Manager approval needed
+
+Final quote: $55,942 for 6 months. Approved with Sales Manager sign-off.
